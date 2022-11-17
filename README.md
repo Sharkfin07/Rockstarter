@@ -1,5 +1,5 @@
 # Welcome to Rockstarter
-This is my first ever game. It's a Text-based RPG game about a rockstar climbing the hierarchy of the music industry to achieve his true dream to become a rockstar. Game is still on its Pre-Alpha phase, there are a lot more things to come.
+This is my first ever game. It's a Text-based RPG game about a rockstar climbing the hierarchy of the music industry to achieve his true dream to become a rockstar. Game is made by a amateur developer, please expect some rough edges around the place.
 # Main Menu Navigation
 This is how to Main Menu should look like.
 ![Screenshot (38)](https://user-images.githubusercontent.com/117014887/200149647-2f55f641-c7b4-4989-9568-86e86d4b7950.png)
